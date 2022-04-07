@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo ifconfig wlp4s0 down
+sudo ifconfig wlp4s0 hw ether 2c:6f:c9:5f:fe:02
+sudo ifconfig wlp4s0 up
+arp -da

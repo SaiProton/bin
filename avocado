@@ -1,0 +1,288 @@
+#!/bin/sh
+
+clear
+
+for filename in /home/shayanr/Videos/memes/entities/avocado/*.mp4; do
+   mpv $filename &
+done
+
+cado_copypasta() {
+   echo "Nick opened his 24th packet of noodles. Another day of mukbanging ahead. He opened the camera, but he didn't say anything. He felt weak...he was sweating...Orlin was gone...he got tired of being pushed around. It took a toll on him...despite the way they acted they still loved eachother. With each passing bite, his stomach pain increased. He began to cry. In a split moment of clarity, he seemed to hear himself play the violin. He took another bite. The life he chose was irreversible for him ...he just had to take another bite. Suddenly, a sharp pain gets him to scream. He drops from the chair...sweating and coughing , the camera shakes and falls on the table. He can't get up. He knows he won't get up. In agony , he is no longer in that room. He is in a garden, dressed in white. His body felt so light...in the distance, a boy plays violin. He is skinny, healthy, dressed just in white, playing the violin. Tears roll in his eyes. But they are tears of joy. He gets closer to the boy...and, he sees his own face.. just 4 years ago...he follows the boy and then all of a sudden, the light gets brighter and brighter. He is no more. He had become one with the air, the earth ,the flowers."
+   echo "\n\n\n"
+
+   sleep 0.25
+   clear
+}
+
+while : 
+do
+   clear
+   echo "                    .  .....                      
+
+
+
+
+   .,:cccloooc'                     
+   'oxxOOOkkkxo'                    
+   .:oloxOOxdooo:.                   
+   ,oxxxkkkkkkkkl.                   
+   'okOOkxxkOOOkc.                   
+   .;xkkxddxkkko'                    
+   ....'looooooodl'            ....     
+   ....'......',:cccllcc:,..........',;;;:;'''''
+   ..'''',,,''''',;:;;,,,,'......,;:cllllc:cc,,;;;
+   .....'''',;:ccc;,cdol:,'''..'..'',;:clllllll:,,;;;
+   ...',;,',;:cokOdlodxxxo:;;:cccllodddxxxxxxxoc;,,co
+   .'cxkd:,:c:cldkxdxxxddolllooddxkO0K0kxxkkxxxxxk0NW
+   .'o0K0dclc::cloxO0K0xxxolllooccdxxOOkkkxxxdx0NWNNN
+   ,.'lkkddollcc:codlcloodxkkxxo:;lkkkOkkkxlcdKNNXXXX
+   Oolc:ldxxddddollc;',;coxdodl:;cdkkxxxkxolxXKkoooxk
+   dddolllodO0KKXK0OOkkOOOkkxkkkkkkkxxddxxxdddl::::cc
+   xoldddoox0KXKXXXKKKKKXXXXKKOxO0K0kddddxxdl;'''',:c
+   olllodkO0OO0KK00KXXXXXK0KXKkoddooodxkkdc;:xo,...''
+   cclldOKK0O00KK0KKXKKKXKkkO00koccdk0KK0x:.,lo:'....
+   lldkO00OkkOO0KKKKK00KK0OxxkOkdol;,,,;,,;;'.......;
+   odOOkkkxkOO000OkoccoxOkddxxkxxkxl,....:dxxl:;'.';:
+   "
+
+   cado_copypasta
+
+   echo "
+   XXx'           ':cc:;:::;;'               'coxkkkx
+   kd'           .;loddooooll:.              .:ldxkkx
+   ll;...        'ccclodoccc::'           .,:cclodxxx
+   ddc'......   .;loooodoloodoc,,,,.    .'lddddddddxd
+   oo:......... .;llllllcccccc::dOd;.....;oxxxxdxdddo
+   l:'...........,:c::cl:;;,,;::od:'.....'lxddoolc:,.
+   ,..............,cccclc:::,'.''''.......,lolc:;'.  
+   ................';ccccc;'....'.,:;'.....';,',lo,  
+   ..............'''''.....'''cO0Okl,....':oOKOl.
+   ......'''...........''';lox000KKo.   :KKKKKKk
+   ...................'',;o0K00Okdo'    c000000K
+   ....................'';okOOko:;'.   .oOOOO000
+   .............',,;;,....''','''....,cxOkkOOOO
+   ............,clcloc;'........',:lollc:lxkkO0
+   ..........,clcccool:..'.....;;;,;:c:'';ok0K
+   .;::;,'.....':clccccodol,.'..''',,,,;clccc;';oO
+   .  .,;:oxdddollodddlcddoll;...',;:clooollolloo:''c
+   .......;ol:cdkOkxxdddkxc'....';::lddoooccllccccldk
+   ......',lo:;cdkkkxddlccl:;,'';coxkOo;;lodllc;:x00k
+   ..',;:lodkkOOxddolodc:clool:,;:oxOkxoollllc::x0xc;
+   :codxddoc:;:c:;:coolcc:::;;;;;lx00000OOxdolco0k:'.
+   :,,::''''..',:lllllllc:ll:;:ox0KK0KK00kddxkkkko'..
+   ,..,;,,:cclllldxxxdxxooddoox0KKK0koloo:lkOOkxxo,. 
+   c,;;,,;:oxdooddxxkkkxoc:ccokO00OOx,...'lkxxkdolc'.
+   c:c:;,;cdkxddxxxkkkko:'....,:okdooc,'..;oocl:'... 
+   "
+
+   cado_copypasta
+
+   echo "
+   .,ccldxxxxdc,.        
+   .',:ldxxdl;.         
+   ..'cooc'          
+   .......                ....          
+   ':cc:::;'                             
+   .;:cc;;;;,.                            
+   .:c::;;;;;,.                          .
+   .,ccc::::cl;.             .',,,'.    ..'
+   ..        .,ccc:clc;:;.     .....',,:llllc;'...,;:
+   ooc;'.... ..;::;:c:,;'..........;cldxxxxdolc;,;:cl
+   kkkxdoc;,....',;;;;;'..........,ldxkkkkkxdlcc:cloo
+   OOOOOOOkkx:...'''.............;lxkkkkkkkkocccllodd
+   OO000000OOko:c:,.............;dkkkkkkkkkkdollodddx
+   OOOOO00OddOOo;'.............,dOkxxxkkkkkkxdoddxxxx
+   dxxkkkOOo:dkololc;'..,;'...'lxkxddxxxxxxxddddddxxx
+   .,,:loxko;ldloxxxxo:;;;,'',:oooooddooddddddddxxxxx
+   .;codocoddddxkkkxo;'''',;:clodddolooddddxxxxxxx
+   ,..:odddddddodkOOOOkkxddoooooodxxddoollodddxxxxxxx
+   :'':odoooddlcccccllloollllooddddddddoolloddxxxxxxx
+   '.',:lllodoolcccclllc:;:cclddddddddddoollodxxxxxxx
+   .,coxkkxdolllooolc;;:lddxkkxdooooooooollodxxxxxx
+   .lxkkkOOkxddddddollloddxxxxxdollllloooooloodxxxxx
+   .d00000OOkkkkkxxxxddxkkkxxxdddolcccllloooolooddxxx
+   dO00000OOOOOOkkkkxxxxxkkkxxdooolcccccclooooooodddx
+   O00000OOOOOOkkkOkkxxddxkkkxdooolcccccccloooooooodd
+   "
+
+   cado_copypasta
+
+   echo "
+   .                .co;..',;'...   
+   ....,,;;,,'''.........;oolloooxxo;...  
+   ..',;:::::::::::::;;;,,',cxkkOOOOO00kl;... 
+   ..,;:ccccccc:::::::::::;;,;okOO000kkO00Okl,.. 
+   .',,;:cccccccccc::::::::::::;;lkOOO000kddO000kdc,.
+   ::cc::cccccccc::::::;;:::cclloxOOOO000OkdxOOOOOxdc
+   xddolc::::::::::::;;;;;clooxkOO000000OOOOkoloood0X
+   000Okxolc:::::;;;;,;;;coxkkO0000KKKKK0Okdoc::clxKN
+   0000000OkxxddoollllllodkO000KKKKKKXXK0d:,,:codxkO0
+   0000KKKKKKK0000OOOOOOOO0000KKKKKKXXXKOc.....,codol
+   000KKKKKKKKKKKKKKKKKKKK00KKKKXXXXXXXKOc.......... 
+   000KKKKKKKKKKKKKKKKKKKKKKKKKKXXXXXXK0k:........  .
+   0000000000KKKKKKKKKK000000000KKKKK00Od;...';:;',,,
+   odddxxxxdxxkkOOOOOOOOkkxxxxkkkkkkkkdl::;cl:cc;;:lo
+   ...,ll:cllodddddoolcllccc:ccclodddooccllc;,:lloddd
+   ,:lodddddoooool::;'',;;;,,,,;:lddodddolc:;;;:::llc
+   kkkkdolloolooooc:;::ccc:;;;,:lloodO000kdooooollcco
+   ko:,...cdxdllll:::looc::;;,,:cllodk000Okxxdddodk0X
+   Ol,'..coxkocc:::;:cloc::cloollodolooodxkdllcoOK0kk
+   xOOd;:ddO0Oxolodolllooccdxkkdoddollodkkdodddxxo:,,
+   oxxocldk00OkkkOkk00xdook0K0xddddlclxO000Okkkkdlc;'
+   .,lol:codddxO00kxO0KOkOOOOOkk000Oxx0KXXXXK0Okkkkxl
+   .odc;:okkxxkOKK0KKK0kkkOOOOO0KXNNXXKKXXXK0dloxkOk
+   ;oo:,o0XKxx0KKK00KK0Ok000000KKXXK000O0KX0d;:ldkOO
+   'oxo;:kXXOokKK00O000000KXXXXXKKKK000d;,d00OkdxkkkO
+   "
+
+   cado_copypasta
+
+   echo "
+
+   ..                     
+   ..                     
+
+   .';;;,.                                
+   .,ldxxdl'        .                      
+   .codddol;.    ....                      
+   .;odddoooc.                              
+   'lddddooc.                              
+   ......:oooooc,........                       
+   ....'''',;:::;,'''''....                       
+   ,,,'..'''''',,,,,,,,,,'....                       
+   OOkd:''''''',,,,,,,;;;,....       ..........'....'
+   OOkkxlccccccccc:ccloool;...      .:cc:::cooxkxxddk
+   :::cloddxxxxxxxxxxdoooc;...      .cccccclxOkxxO0OO
+   ....',:oxOOO0000kxxxdoc,,,,'''',,:oxxxxoldxxdkO0O0
+   KKKOkOKXNNNNWWWNX0kkxdoloddxO000K0KXNWNKOkkkkkkOOO
+   NNNWWWWWWWWWWWWNXXK0OkxxkkkkO0000000KKK0OOOOOOOOO0
+   WWWWWWWWWWWWNNNNNXXXK0OOO00OOOOOOOOOOOOOOOOOOOOOOO
+   WWWWWWWWWWNNNNNNNXXXK00OOOOOOOOOOOOOOOOOOOOOOOOkkk
+   WWWWWWWWWWWWNNXXXXXKK0OOOOOOOOOOOOOOOOOOOOkkkkkxoc
+   WWWWNXXNWWWWNNXXXXXKK0OOOOOOOOOOOOOOOOOOkkkxxxkd:'
+   WWWNXKXKKKKKKXXXXXXK00OOOOOOOOOOOOkkkkkkkxdooodocc
+   WWWNXXX0O0KKXXNXXKKK000OOOOOkkkkxxxdxxxxxd:,;cccll
+   WWNNXXK00XNNNNXXKKKK0000OOOOkxxxddolloooc;'',:ccc:
+   "
+
+   cado_copypasta
+
+   echo "
+   ......,cllcc::::::cccclccccc::;;;,'...            
+   ...,:cc;,'''......''',,,,,,,''........           
+   ..,::;'.......     ..................... .        
+   ,:;'..   .;clll:'.    ..................          
+   c;..    .:xkkkkxl'.     .................         
+   l,..    .lxxkkxxd:.     .................         
+   kl'.    ,oxxxxxxxc.     ................          
+   OOxc,.  'lddxxdddl'................ ...        .'.
+   cxOOkd:',lodxxddoolc;,'....                   .',.
+   .'lkOOOkxxxkkkxl:cc:;;,'...                       
+   ..ckOOOOOO0KKK0kdl:;,,,'...                       
+   cldkOOO00KKKKKKKKKOdl:,,...                       
+   xdoxO00KKKKKKKKKKXXX0kl,...      ..,;'.           
+   xddkO0KKKKKKKKKXXXXXXXKo'..    ..'ldc,.           
+   dxkOOO00KKKKKXXXXXXXXKOd:,'....',;cc;;;;;;;;:;'.  
+   kO000KKKKKKKXXXXXXKOxodxkxxxxkxkkO000000KKK00Oxl;.
+   KKXXKKKKKKXXXXXK0kdlccoxxkkkkkxkkkOOOO0K0Okxxxkxxk
+   XXXXXXXXXXXXX0xl:loollooooooolodxkkkO0KXK00OkxxkXW
+   XXXXXXXXKK0Okoc::clooodxdoollllododkO000KKKK0k0NWW
+   XXXXXKK0OkkxxdoddoodxxkkdooodxxxdodkOkxkOOOO00OOO0
+   XXKK00OkxxkkOkxxxxxxkOOkolloxxkxddxkxxdoldkkxoccll
+   000OkxocldxxxxxxxxdkOOkdccldxxkOxdoc:;'..;dxdc;;cl
+   0Oo:;::ldxxxxxdddoodxxxooodxxxkkxdl;'..',:lodxxxkx
+   Od:;;;cdxxxxxxdoooooxxddxxxdddxkkxxo;...',cdxxk00k
+   dllodddxxxxxxxxdddddxxxxxxxxxkO0000Ol'...'oo:;lO0x
+   "
+
+   cado_copypasta
+
+   echo "
+   :OXNNWWWNNNXd.........'......                     
+   ;OXNNWWWNNXXk;. ..'..:ll:;,'....,;:'.             
+   ;kXXNNNNNXXKOc...,:',okkkxxdooxkO0Oc. .           
+   lOXXNNNNXK0Oko;,,:::lxkkOO0KKKKKK0k:........      
+   OKXNNNNXK0Oxdl:;;;;ldxkkkkkOO00Okkd;';:::::;'..   
+   KXNNXXK0Okdocc:;:,,codkO0000000OOkl;;::ccllllc:,..
+   XXNNXKOkdolc:::::;,;clodxxxkO0Odoc;;:cccllllllllc;
+   XXXXKOxolc::;:::::;;;coooooodxdl:::ccccclllllllooo
+   XXX0kdlc:;;;;;::::::::clolllllc:cccccc:ccllllllllo
+   XKOxoc:;;,,',;:::::::::cccccccccccc::;;;;:clllllod
+   0Oxoc;;,'..',;;:::cccc::cccccccccc:;,,'....,;ccldO
+   kxdoc,......';;:::ccccc::cccccccc:;,'..      .':dk
+   dolc'.   ...',;;:::ccc::::cc::cc:;,'..          .,
+   :,..     ....',;;;;;;::;;;;;;;::;,...             
+   ....'',;;;::::;;;;;;;:;,...          .,;;
+   ...',,.......''',;::cccccc:cllc::::;;:::::::cdO0K
+   oodxkkkxoc;:clllloodxxxddddxxxxkkxxkkxdxxkkOk0KXXN
+   OOO000KKKK0OOOOOOOOkOOkxxxxddxkkkxddddddxxxxk0XNNN
+   OO0000KKKK000OO0000OO000OkxooodkOkkkkxxkkkxxk0XNNN
+   kOO000KK0000000000000K0KXXK0koloxO00OdldO0kkOKXNNN
+   xkkOO000000K000000OxdOKNWWNNNX0xxkOOOxdOKOxdxOKXXN
+   00000O00K0000000Oxl;;xNWWWNK0KKOkkkkkkdoooooddxO00
+   KK0000000000OOxolcclcoOKKXX0OOkxxxxxdlc;':dOOxlldk
+   KXKKKKKKKKXNXKOdlloxddkkkkOOOkxxkxdo:'...;xO0kook0
+   XXKK0OKNNNWWWWWXxlodddxxxxxxkOOOkxdc'..'',lxOOkkkk
+   "
+
+   cado_copypasta
+
+   echo "
+   KKKKXKOkkOx;...                   .,oxkkkkxxxkkkkx
+   KKKKKKOkkOkc..                    ..:ooollllodkkOk
+   KKK00OOkkkxl,.                     .......;codxkOO
+   00OOkkkxxdol:'.                         ..:lodxkOO
+   kkkxdddxdoccc,.                      ..,:clloodxkk
+   ddollllolc;;;;'...'''';:,..     .....,okOOkdooodxx
+   c::::::;,...,::ccloooooo:'. ...';:c:;lO0000Okxddoc
+   ;;;;;,;,,...,:clloddddddl:'..,;lxOkl;ck000OOkdc;..
+   ;,,,,,,,,'..,coddddxxdxxoc,.,;:lOKx:,;cddoc;'..   
+   ,'''''''''.',clododddoooc;,,;;;lOkc'''.....       
+   '''''',,,,,,,;:ccloooll:;;;;;;;:c:'....           
+   .....',,,,,,,,,;:clllc:;;;;,;;,,'...              
+   ...'',,,;;;,,,,;;;;;;;;;;;;;,,'..               
+   ..''',,;;;;;;;;;;;,;;;;;;,,,,'....  ....       
+   ..'',,,,,,;::cccccllloooddddddooooddxxxxl,..   
+   ..,;cllllodxkOkkO00000KKXXK000OO000000Oxxdl:. 
+   .,lodkOOkkxxxdxxOKKK0000KXXK00KK0OOO000OkkkOOxc
+   ',;lxkkkOOkdolloodOXXXXXXXXXXXKKKKXXK0OkkO0OkOOOOO
+   odxkOkxk0KOkdddkkxkOOO0KK00OOO000KXNNKkxkOkkkkOOOO
+   ldddxkkxxO0kxkOkxxddddkOkxxdxkkO00000OOkO00OkkkOOk
+   clooddxddxOkkkkkkxxxxkkkxxxkO00OkkkkkkkkOOOOOkkkOO
+   dxddddooloxkkkkkkkkkOOOkkkkkO0OkkOkkkxxxkkkkkOOkkk
+   oxxdddddddxkkkkkkkkkxxxxxxxxxkxdxkkkxxxxkkkkkkkkkk
+   dxxxxkkxxxkkOkkkkkkkkkkkkxxxxxxxxxxxxxxkkkkkkkkkkO
+   xxkkkkkkkkkOOOkkkkkkkkkkkkkxxxkxxddxxxxO000000OkOO
+   "
+
+   cado_copypasta
+
+   echo "
+   ,xkc;:;..';........''....'.....         
+   .'::';dd;.;c,...............  .          
+   ....:do'.....                           
+   ..... ....    ..                     
+   .. ..,:clll:.. ..                     
+   ..      ....:dxxxxxd:'.                       
+   ...       ,,'cxxxxxxdoc,.                     .
+   ..       .'';lxkxxxddol,.                    .c
+   ...    .......'lddddxollc,,;..',,,..          .;k
+   .'.  .:ldxxdoc;:looodol;,';dxxkkkkxc..;:,.  ...:O
+   ..  .lkO000000kxkOOOOOkxddxkOO000OOkolkK0xlcllox0
+   .;dkO000OOOOKKKKKKK0000OO00KKKKKKKKXXXKKKKKKX
+   ...',;cdkO0000000KXKKKKKKKKKKKKXXXXNNNNNNNNNNNNNNN
+   kOOO0KKKXXXXXXXXXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWNN
+   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNWWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   NNNNNNWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   "
+done
+

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+DIR=${1:-.}
+
+# maximizes terminal
+wmctrl -r :ACTIVE: -b add,maximized_vert,maximized_horz
+
+tmux new-session -d
+tmux split-window -h -p 35
+
+for pane in $(tmux list-panes -F '#P'); do
+    tmux send-keys -t ${pane} 'workon datasci' C-m
+    tmux send-keys -t ${pane} 'cd ~/Documents/development/python/datasci' C-m
+    tmux send-keys 'mkdir -p ' $DIR C-m
+    tmux send-keys -t ${pane} 'cd ' $DIR C-m
+    tmux send-keys -t ${pane} 'clear' C-m
+done
+
+tmux select-pane -t 1
+tmux send-keys 'ipython --matplotlib' C-m
+
+tmux select-pane -t 0
+tmux send-keys 'vim -c NERDTree ' $2 C-m
+
+tmux rename-window 'ds'
+tmux -2 attach-session
